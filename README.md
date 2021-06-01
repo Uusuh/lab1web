@@ -1,7 +1,7 @@
 Belajar CSS
 
-Nama : Desiana Eka Safitri 
-NIM : 311910738 Kelas : TI19B1 
+Nama : Uus Uyun harun
+NIM : 311910142 Kelas : TI19B1 
 Prodi : Teknik Informatika 
 Mata Kuliah : Pemrograman Web 
 Dosen Pengajar : Agung Nugroho, S. Kom., M. Kom
